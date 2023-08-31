@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/tmhassan/Documents/projects/HelloWorld/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -o CMakeFiles/HelloWorld.dir/main.cpp.o -c /Users/tmhassan/Documents/projects/HelloWorld/main.cpp",
+  "file": "/Users/tmhassan/Documents/projects/HelloWorld/main.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/main.cpp.o"
+}
+]
